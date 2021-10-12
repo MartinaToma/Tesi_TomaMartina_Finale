@@ -1,0 +1,2 @@
+Pattern, Confidence-Frequence-Frequence %
+[[[['QuasiPiena_T0_0'], ['Piena_T1_0']]], [0.06263736263736264-57-100.0%]]
