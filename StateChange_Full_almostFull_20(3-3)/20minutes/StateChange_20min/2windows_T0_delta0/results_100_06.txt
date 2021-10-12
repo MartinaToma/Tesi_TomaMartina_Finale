@@ -1,0 +1,2 @@
+Pattern, Support-Frequence
+[[[['QuasiPiena_T0_0'], ['QuasiPiena_T1_0']]], ['0.7687706043267833-230163']]

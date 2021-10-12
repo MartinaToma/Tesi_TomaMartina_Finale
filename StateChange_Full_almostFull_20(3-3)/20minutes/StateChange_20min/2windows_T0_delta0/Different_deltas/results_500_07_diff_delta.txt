@@ -1,0 +1,10 @@
+Pattern, Support-Frequence
+[[[['QuasiPiena_T0_0'], ['QuasiPiena_T1_3,QuasiPiena_T1_2'], ['QuasiPiena_T2_3']]], ['0.9783681152169544-238578']]
+[[[['QuasiPiena_T0_0'], ['QuasiPiena_T1_3,QuasiPiena_T1_2'], ['QuasiPiena_T2_2']]], ['0.9665905279000053-235706']]
+[[[['QuasiPiena_T0_0,QuasiPiena_T0_2'], ['QuasiPiena_T1_3,QuasiPiena_T1_2']]], ['0.9040397667527005-236429']]
+[[[['QuasiPiena_T0_0'], ['QuasiPiena_T1_2'], ['QuasiPiena_T2_3,QuasiPiena_T2_2']]], ['0.9016557914407377-235462']]
+[[[['QuasiPiena_T0_3,QuasiPiena_T0_0'], ['QuasiPiena_T1_3,QuasiPiena_T1_2']]], ['0.8850281837238069-238970']]
+[[[['QuasiPiena_T0_0'], ['QuasiPiena_T1_3'], ['QuasiPiena_T2_3,QuasiPiena_T2_2']]], ['0.8810123954688334-237676']]
+[[[['QuasiPiena_T0_3,QuasiPiena_T0_0'], ['QuasiPiena_T2_3,QuasiPiena_T2_2']]], ['0.8730436199604465-235734']]
+[[[['QuasiPiena_T0_0'], ['QuasiPiena_T1_3,QuasiPiena_T1_2']]], ['0.8144967617597055-243853']]
+[[[['QuasiPiena_T0_0'], ['QuasiPiena_T2_3,QuasiPiena_T2_2']]], ['0.8101111923872127-242540']]
