@@ -1,0 +1,4 @@
+Pattern, Support-Frequence
+[[[['QuasiPiena_T0_0'], ['QuasiPiena_T1_0']]], ['0.7705360386072336-178188']]
+[[[['QuasiPiena_T0_0'], ['QuasiPiena_T1_0'], ['QuasiPiena_T2_0']]], ['0.7608986014770917-135583']]
+[[[['QuasiPiena_T0_0'], ['QuasiPiena_T2_0']]], ['0.6512332866310345-150599']]
