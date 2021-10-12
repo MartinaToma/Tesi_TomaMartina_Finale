@@ -1,0 +1,2 @@
+Pattern, Support-Frequence
+[[[['Vuota_T0_0'], ['Vuota_T1_0']]], ['0.7820377168778937-267557']]
