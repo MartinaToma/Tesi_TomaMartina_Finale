@@ -1,0 +1,4 @@
+Pattern, Confidence-Frequence-Frequence %
+[[[['QuasiPiena_T0_0,Piena_T0_0'], ['QuasiPiena_T1_3']]], [0.32608695652173914-60-31.91%]]
+[[[['Piena_T0_0'], ['QuasiPiena_T1_3']]], [0.3051643192488263-65-34.57%]]
+[[[['QuasiPiena_T0_0'], ['Piena_T1_0']]], [0.11130742049469965-63-33.51%]]
